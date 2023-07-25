@@ -1,6 +1,6 @@
 # Hello World
 
-Soy Antonio Prieto y desde que tuve el primer pc me ha encantado "trastear" conectando varios en lan, en esos tiempos en los que no había internet, formatear, probar distribuciones de linux...  
+Desarrollador Spring y Liferay DXP7.0 y DXP7.4
 
 # CV
 ##  Formación
